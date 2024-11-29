@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConversorMoneda2Application<conversor_moneda2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.conversor_moneda.ConversorMoneda2Application",
+            "projectName": "conversor_moneda2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
